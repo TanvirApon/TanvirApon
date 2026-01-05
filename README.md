@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirapon" alt="tanvirapon" /></a> </p>
 
-- 🔭 I’m currently working on [AI-Powered Fitness Project](https://github.com/TanvirApon/Fitness-Microservices-Project)
-
 - 🌱 I’m currently learning **🌱 Currently learning Microservices, Kafka & System Design**
 
 - 👯 I’m looking to collaborate on **Spring Boot / Microservices based Backend Projects**
