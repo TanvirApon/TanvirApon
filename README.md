@@ -74,7 +74,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvirapon&show_icons=true&theme=radical&count_private=true" alt="github stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvirapon&show_icons=true&theme=radical" alt="github stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirapon&theme=radical" alt="streak stats" height="165"/>
 </p>
 
